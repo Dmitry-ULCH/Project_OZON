@@ -1,0 +1,5 @@
+__pycache__/
+env/
+TEST_bot.py
+ozon_settings.py
+*.log
